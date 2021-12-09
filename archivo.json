@@ -1,0 +1,81 @@
+{
+    "nombre": "Mayoral",
+    "ciudad": "Málaga",
+    "año": 2021,
+    "active": true,
+    "productos": [
+      {
+        "nombre": "Polo manga larga",
+        "precio": 24.99,
+        "colores": [
+            "marino",
+            "rojo"
+        ],
+        "talla": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+      },
+      {
+        "nombre": "Polo manga larga print",
+        "precio": 22.99,
+        "colores": [
+            "negro",
+            "marino"
+        ],
+        "talla": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+      },
+
+      {
+        "nombre": "Polo manga larga estampado",
+        "precio": 22.99,
+        "colores": [
+            "indigo",
+            "verde caza"
+        ],
+        "talla": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+      },
+      {
+        "nombre": "Polo manga larga combinado",
+        "precio": 22.99,
+        "colores": [
+            "kale",
+            "miel"
+        ],
+        "talla": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+      }
+    ]
+  }
